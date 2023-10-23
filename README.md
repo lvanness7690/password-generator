@@ -14,7 +14,7 @@ To generate a password follow the prompts on the screen.
 
 Here is a screenshot fo the website in action:
 
-![alt text](assets/password-generator-demo.png)
+![alt text](Assets/password-generator-demo.png)
 
 Here is a link of the website:
 
